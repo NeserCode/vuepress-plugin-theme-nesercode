@@ -1,5 +1,5 @@
 {
-	"name": "vuepress-plugin-theme-nesercode",
+	"name": "@nesercode/vuepress-plugin-theme-nesercode",
 	"version": "1.0.0",
 	"description": "Theme Data plugin for NeserCode Theme",
 	"keywords": [
@@ -13,6 +13,6 @@
 		"@vuepress/core": "2.0.0-beta.49"
 	},
 	"publishConfig": {
-		"access": "public"
+		"registry": "https://npm.pkg.github.com"
 	}
 }
